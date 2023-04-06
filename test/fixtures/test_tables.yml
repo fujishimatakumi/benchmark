@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  text_field: MyText
+  num_field: 1
+  date_field: 2023-04-06
+
+two:
+  text_field: MyText
+  num_field: 1
+  date_field: 2023-04-06
